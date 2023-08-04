@@ -15,3 +15,5 @@ pytest
 
 flask
 
+#for deployment
+gunicorn
